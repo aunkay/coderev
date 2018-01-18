@@ -1,0 +1,11 @@
+﻿<Window x:Class="Dashboard.WPF.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About..." Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="back.png" Stretch="Fill"/>
+        </Grid.Background>
+        <TextBlock Margin="0,100,500,100" Background="Blue" Foreground="White" TextWrapping="WrapWithOverflow" TextBlock.FontSize="22">WPF-Dashboard-Sample, written by Ricardo Wickel and Tobias Wittenburg. Based on the Chart Sample SDK by Torsten Mandelkow.</TextBlock>
+    </Grid>
+</Window>

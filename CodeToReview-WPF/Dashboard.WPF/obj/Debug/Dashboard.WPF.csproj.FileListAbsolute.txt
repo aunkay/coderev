@@ -1,0 +1,89 @@
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\bin\Debug\Dashboard.WPF.exe.config
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\bin\Debug\Dashboard.WPF.exe
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\bin\Debug\Dashboard.WPF.pdb
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\bin\Debug\EntityFramework.dll
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\bin\Debug\EntityFramework.xml
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\Dashboard.WPF.csprojResolveAssemblyReference.cache
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\AboutWindow.baml
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\Skins\MainSkin.baml
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\MainWindow.baml
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\App.baml
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\AboutWindow.g.cs
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\App.g.cs
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\Dashboard.WPF_Content.g.cs
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\Dashboard.WPF_MarkupCompile.cache
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\Dashboard.WPF_MarkupCompile.lref
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\Themes\Generic.baml
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\Dashboard.WPF.g.resources
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\Dashboard.WPF.Properties.Resources.resources
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\Dashboard.WPF.csproj.GenerateResource.Cache
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\Dashboard.WPF.exe
+C:\Users\riwickel\Source\Workspaces\CodeQualitySample\Main\CodeQualitySample\Dashboard.WPF\obj\Debug\Dashboard.WPF.pdb
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\bin\Debug\Dashboard.WPF.exe.config
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Dashboard.WPF.exe
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Dashboard.WPF.pdb
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\bin\Debug\Dashboard.WPF.exe
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\bin\Debug\Dashboard.WPF.pdb
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\bin\Debug\EntityFramework.dll
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\bin\Debug\EntityFramework.xml
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\AboutWindow.baml
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Skins\MainSkin.baml
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\MainWindow.baml
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\App.baml
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\AboutWindow.g.cs
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\App.g.cs
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Dashboard.WPF_Content.g.cs
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Dashboard.WPF_MarkupCompile.cache
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Dashboard.WPF_MarkupCompile.lref
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Themes\Generic.baml
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Dashboard.WPF.g.resources
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Dashboard.WPF.Properties.Resources.resources
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Dashboard.WPF.csproj.GenerateResource.Cache
+C:\Users\riwickel\Source\Repos\soft-arc\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Dashboard.WPF.csprojResolveAssemblyReference.cache
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\bin\Debug\Dashboard.WPF.exe.config
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Dashboard.WPF.csprojResolveAssemblyReference.cache
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\AboutWindow.baml
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Skins\MainSkin.baml
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\MainWindow.baml
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\App.baml
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\AboutWindow.g.cs
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\MainWindow.g.cs
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\App.g.cs
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Dashboard.WPF_Content.g.cs
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Source\PFE Architecture Workshop\3 Foundation Workshop\2 Labs\Module 2 - Code Quality\Enforcing Code Quality - Code Reviews\Sources\Dashboard.WPF\obj\Debug\Dashboard.WPF_MarkupCompile.cache
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\bin\Debug\Dashboard.WPF.exe.config
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\bin\Debug\Dashboard.WPF.exe
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\bin\Debug\Dashboard.WPF.pdb
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\bin\Debug\EntityFramework.dll
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\bin\Debug\EntityFramework.xml
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\AboutWindow.baml
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\Skins\MainSkin.baml
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\MainWindow.baml
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\App.baml
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\AboutWindow.g.cs
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\App.g.cs
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\Dashboard.WPF_Content.g.cs
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\Dashboard.WPF_MarkupCompile.cache
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\Dashboard.WPF_MarkupCompile.lref
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\Themes\Generic.baml
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\Dashboard.WPF.g.resources
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\Dashboard.WPF.Properties.Resources.resources
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\Dashboard.WPF.csproj.GenerateResource.Cache
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\Dashboard.WPF.csproj.CoreCompileInputs.cache
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\Dashboard.WPF.exe
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\obj\Debug\Dashboard.WPF.pdb
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\bin\Debug\Dashboard.WPF.exe.CodeAnalysisLog.xml
+C:\Users\alperu\Desktop\AU\Workshop\Labs\Module 2 - Code Quality\CodeToReview-WPF\CodeToReview-WPF\Dashboard.WPF\bin\Debug\Dashboard.WPF.exe.lastcodeanalysissucceeded
